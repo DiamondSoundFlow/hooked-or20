@@ -1,4 +1,4 @@
-
+no-ban Scripts for hooked offers the most advanced hooked Script, with auto-farm and auto-collect. Perfect for dominating any match.
 
 
 
